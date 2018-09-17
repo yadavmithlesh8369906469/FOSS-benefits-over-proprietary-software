@@ -1,0 +1,2 @@
+# FOSS-benefits-over-proprietary-software
+Users of FOSS benefit from the Four Essential Freedoms to making unrestricted use, study, copy, modify, and redistribute such software with or without modification. If they would like to change the functionality of software they can bring about changes to the code and, if they wish, distribute such modified versions of the software or often − depending on the software's decision making model and its other users − even push or request such changes to be made via updates to the original software
